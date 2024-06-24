@@ -16,7 +16,7 @@ const Header = () => {
         <div className='flex justify-center sm:justify-start items-center'>
          <a href="https://www.linkedin.com/in/sri-ram-443963272/"><i className="fa-brands fa-linkedin my-5 mr-5 text-3xl cursor-pointer text-slate-700 "></i></a> 
          <a href="https://github.com/Sriram-193"> <i className="fa-brands fa-github my-5 mr-5 text-3xl cursor-pointer text-slate-700 "></i></a>
-          <button className=' bg-slate-700 text-white px-4 py-1 rounded font-semibold'>Resume <i class="fa-regular fa-paper-plane"></i></button>
+          <button className=' bg-slate-700 text-white px-4 py-1 rounded font-semibold'><a href="https://drive.google.com/file/d/1vb5J6yq7_jaW9Tafc3cHysPXjcWTnE7H/view">Resume</a> <i class="fa-regular fa-paper-plane"></i></button>
         </div>
       </div>
     </div>
