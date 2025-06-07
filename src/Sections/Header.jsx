@@ -27,7 +27,7 @@ const Header = () => {
     <div className='flex flex-wrap justify-center py-2'>
     <img className='m-2 p-2 cursor-pointer hover:-translate-y-5 transition-all duration-500 ' src="https://skillicons.dev/icons?i=html,css" alt="" />
     <img className='m-2 p-2 cursor-pointer hover:-translate-y-5 transition-all duration-500 ' src="https://skillicons.dev/icons?i=js,react" alt="" />
-    <img className='m-2 p-2 cursor-pointer hover:-translate-y-5 transition-all duration-500 ' src="https://skillicons.dev/icons?i=tailwindcss,nodejs" alt="" />
+    <img className='m-2 p-2 cursor-pointer hover:-translate-y-5 transition-all duration-500 ' src="https://skillicons.dev/icons?i=tailwindcss,git" alt="" />
     </div>
    </div>
     </div>
